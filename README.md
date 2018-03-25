@@ -36,3 +36,6 @@ switch (type) {
 
 ### 截图
 ![](https://github.com/bjheweihua/TapticEngineDemo/blob/master/ReadMe/imgs/demo.png)  
+
+
+
