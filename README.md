@@ -1,11 +1,11 @@
 # TapticEngineDemo
 物理触觉(Haptic)
 
-# 参考：
+### 参考：
 https://www.jianshu.com/p/d4567dbd7dde
 
 
-# 代码调用
+### 代码调用
 ```
 switch (type) {
     case 0:
@@ -34,5 +34,5 @@ switch (type) {
 }
 ```
 
-#截图
+### 截图
 ![](https://github.com/bjheweihua/TapticEngineDemo/blob/master/ReadMe/imgs/demo.png)  
